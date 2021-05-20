@@ -1,0 +1,5 @@
+---
+create_user: admin
+new_hostname: admin
+copy_local_key: "{{ lookup('file', lookup('env','HOME') + '/.ssh/id_rsa.pub') }}"
+sys_packages: [ 'curl', 'vim', 'net-tools', 'dos2unix', 'unzip' ]
