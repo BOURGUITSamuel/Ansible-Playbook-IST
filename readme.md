@@ -26,7 +26,7 @@ Le programme a été testé sur l'OS Debian 64bits
 
 ### 1. 0btention du Playbook
 ```shell
-git clone 
+git clone https://github.com/BOURGUITSamuel/Ansible-Playbook-IST
 cd Ansible-Playbook-IST/
 ```
 
