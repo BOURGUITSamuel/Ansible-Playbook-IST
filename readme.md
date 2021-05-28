@@ -30,7 +30,7 @@ git clone https://github.com/BOURGUITSamuel/Ansible-Playbook-IST
 cd Ansible-Playbook-IST/
 ```
 
-### 2. Personalisation des options
+### 2. Personnalisation des options
 
 ```shell
 vim vars/default.yml
